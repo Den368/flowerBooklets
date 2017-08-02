@@ -6,14 +6,9 @@
 * Standard compliant React Native App Utilizing [Ignite](https://github.com/infinitered/ignite)
 
 ## Show Cases
-
-> Swiper image
-
-![1.gif](https://github.com/Den368/flowerBooklets/blob/master/assets/anim1.gif?raw=true)
-
-> Zoom while sliding
-
-![2.gif](https://github.com/Den368/flowerBooklets/blob/master/assets/anim2.gif?raw=true)
+| English | Russian |
+| --------|---------|
+|![](https://github.com/Den368/flowerBooklets/blob/master/assets/anim1.gif?raw=true)|![](https://github.com/Den368/flowerBooklets/blob/master/assets/anim2.gif?raw=true)|
 
 ## Contains
 
