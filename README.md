@@ -9,11 +9,11 @@
 
 > Swiper image
 
-![1.gif](ttps://github.com/Den368/flowerBooklets/assets/anim1.gif)
+![1.gif](https://github.com/Den368/flowerBooklets/blob/master/assets/anim1.gif?raw=true)
 
 > Zoom while sliding
 
-![2.gif](ttps://github.com/Den368/flowerBooklets/assets/anim2.gif)
+![2.gif](https://github.com/Den368/flowerBooklets/blob/master/assets/anim2.gif?raw=true)
 
 ## Contains
 
